@@ -6,13 +6,6 @@
 
 ---
 
-- [ ] ✅ Pros of IAC over GUI:
-  - Declarative: focus on *what*, not *how*
-  - Versionable
-  - Reproducible
-
----
-
 ## 🧱 Chapter 1 – Why Terraform and DevOps
 
 **DevOps** enables faster, more reliable application delivery by promoting automation, repeatability, and collaboration. The classic *“it worked on my machine”* problem is mitigated by making both code and infrastructure reproducible.
