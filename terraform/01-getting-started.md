@@ -13,7 +13,7 @@
 
 - **Declarative**: define _what_ you want, not _how_ to do it
 - **Providers**: AWS, Azure, etc.
-- **Resources**: actual infra components (e.g., `aws_instance`)
+- **Resources**: actual infrastructure components (e.g., `aws_instance`)
 - **State**: Terraform tracks what it manages via `terraform.tfstate`
 
 ---
@@ -22,7 +22,7 @@
 
 Terraform uses a **state file** (`terraform.tfstate`) to keep track of the real infrastructure it manages. This file records the current state of all resources created, updated, or destroyed by Terraform, allowing it to determine what actions are required during future operations.
 
-The state file can contain sensitive data (e.g., passwords, secrets, or cloud resource metadata). For this reason, it should be stored securely with access strictly controlled — for example, in an encrypted S3 bucket with restricted permissions, accessible only to team members responsible for infrastructure management.
+The state **file can contain sensitive data** (e.g., passwords, secrets, or cloud resource metadata). For this reason, it should be *stored securely* with access strictly controlled — for example, in an encrypted S3 bucket with restricted permissions, accessible only to team members responsible for infrastructure management.
 
 The current state can be inspected using the `terraform show` command. This displays all information that Terraform has about the infrastructure, including metadata returned by the provider for each resource (e.g., EC2 instance details, IP addresses, or ARNs).
 
