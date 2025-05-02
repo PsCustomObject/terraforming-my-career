@@ -1,0 +1,13 @@
+title: Terraforming My Career
+remote_theme: just-the-docs/just-the-docs
+color_scheme: dark
+
+# Important: this must match the repo name for GitHub Pages project sites
+baseurl: "/terraforming-my-career"
+
+search_enabled: true
+
+# Optional: Set a logo or favicon if needed later
+# logo: "/assets/logo.png"
+# favicon_ico: "/assets/favicon.ico"
+
