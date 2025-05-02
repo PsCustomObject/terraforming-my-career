@@ -1,9 +1,3 @@
----
-title: 04 Terraform Variables
-parent: Terraform
-nav_order: 4
----
-
 ## 🧮 Terraform Variables
 
 Terraform variables allow us to write configuration files in a **flexible and reusable** way — just like parameters or constants in programming.
