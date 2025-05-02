@@ -50,6 +50,8 @@ Initializes a Terraform working directory. It downloads the necessary **provider
 
 > 💡 Without running `terraform init`, Terraform commands such as `plan` or `apply` will not function, as required dependencies and configurations are not yet available.
 
+> ❗ **Danger:** Running `terraform init` within an empty directory would be like instructing Terraform to destroy the whole infrastructure which nine out of ten is not what we want that is why it will throw a warning.
+
 ### `terraform fmt`
 
 Formats Terraform configuration files to a canonical style. This command ensures consistent indentation and alignment across `.tf` files in a project.
