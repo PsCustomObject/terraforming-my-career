@@ -4,6 +4,19 @@ nav_order: 20
 has_children: true
 ---
 
-# Reading-Notes
+# 📖 Terraform Up & Running – Notes & Reflections
 
-Notes for the **Reading-Notes** section.
+> ✍️ Author: Yevgeniy Brikman
+> 🧠 Personal notes by PsCustomObject
+> 📘 Edition: Third Edition
+
+---
+
+# 📖 Terraform Up & Running
+
+This folder contains chapter-by-chapter notes and exercises based on the book *Terraform Up & Running* by Yevgeniy Brikman.
+
+<!-- AUTO-GENERATED CHAPTER TOC -->
+
+- [Chapter 1: Intro](chapter-01-intro.md)
+- [Chapter 2: First Code.Md](chapter-02-first-code.md.md)

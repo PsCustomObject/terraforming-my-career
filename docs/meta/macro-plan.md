@@ -26,7 +26,7 @@ nav_order: 2
 ## 🧱 Phase 1 – Core Terraform Fundamentals
 
 - [ ] 📘 Finish Chapter 2 of the book
-- [ ] Create `04-variables-outputs.md`
+- [x] Create `04-variables-outputs.md`
 - [ ] Practice defining variables and outputs
 - [ ] Use `.tfvars` and CLI vars
 - [ ] Practice writing clean, parameterized `.tf` configs

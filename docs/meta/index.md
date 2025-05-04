@@ -7,3 +7,5 @@ has_children: true
 # Meta
 
 Notes for the **Meta** section.
+
+<!-- AUTO-GENERATED CHAPTER TOC -->
