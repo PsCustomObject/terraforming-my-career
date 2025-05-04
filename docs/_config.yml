@@ -12,4 +12,4 @@ search_enabled: true
 # favicon_ico: "/assets/favicon.ico"
 
 # Trigger rebuild
-rebuild_trigger: v5
+rebuild_trigger: v6
