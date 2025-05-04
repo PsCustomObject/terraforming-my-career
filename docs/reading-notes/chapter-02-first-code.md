@@ -1,5 +1,5 @@
 ---
-title: Chapter 2: First Code
+title: Chapter 02 First Code
 parent: Reading-Notes
 nav_order: 2
 ---
