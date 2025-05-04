@@ -1,7 +1,7 @@
 ---
 title: Terraform Up And Running
 parent: Reading-Notes
-nav_order: 1
+nav_order: 4
 ---
 
 # 📖 Terraform Up & Running – Notes & Reflections
