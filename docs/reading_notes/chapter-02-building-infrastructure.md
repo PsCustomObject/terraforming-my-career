@@ -1,5 +1,5 @@
 ---
-title: "Chapter 2 – First Code"
+title: "Chapter 2 – Building Infrastructure"
 parent: Reading Notes
 nav_order: 2
 ---
