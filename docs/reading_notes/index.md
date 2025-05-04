@@ -19,4 +19,4 @@ This folder contains chapter-by-chapter notes and exercises based on the book *T
 <!-- AUTO-GENERATED CHAPTER TOC -->
 
 - [Chapter 1 – Intro](chapter-01-intro.md)
-- [Chapter 2 – Building Infrastructure](chapter-02-building-infrastructure.md)
+- [Chapter 2 – Terraform Basics](chapter-02-terraform-basics.md)
