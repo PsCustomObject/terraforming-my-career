@@ -18,5 +18,5 @@ This folder contains chapter-by-chapter notes and exercises based on the book *T
 
 <!-- AUTO-GENERATED CHAPTER TOC -->
 
-- [Chapter 1: Intro](chapter-01-intro.md)
-- [Chapter 2: First Code](chapter-02-first-code.md)
+- [Chapter 1 – Intro](chapter-01-intro.md)
+- [Chapter 2 – First Code](chapter-02-first-code.md)

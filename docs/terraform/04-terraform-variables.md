@@ -1,5 +1,5 @@
 ---
-title: 04 Terraform Variables
+title: "04 Terraform Variables"
 parent: Terraform
 nav_order: 4
 ---

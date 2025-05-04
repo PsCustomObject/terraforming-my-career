@@ -1,5 +1,5 @@
 ---
-title: Reading Plan
+title: "Reading Plan"
 parent: Meta
 nav_order: 3
 ---

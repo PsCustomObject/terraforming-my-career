@@ -1,5 +1,5 @@
 ---
-title: Macro Plan
+title: "Macro Plan"
 parent: Meta
 nav_order: 2
 ---

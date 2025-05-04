@@ -1,5 +1,5 @@
 ---
-title: Learning Plan
+title: "Learning Plan"
 parent: Meta
 nav_order: 1
 ---

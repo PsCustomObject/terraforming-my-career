@@ -1,5 +1,5 @@
 ---
-title: 01 Getting Started
+title: "01 Getting Started"
 parent: Terraform
 nav_order: 1
 ---

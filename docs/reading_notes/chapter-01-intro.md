@@ -1,5 +1,5 @@
 ---
-title: Chapter 1 - Intro
+title: "Chapter 1 – Intro"
 parent: Reading Notes
 nav_order: 1
 ---
