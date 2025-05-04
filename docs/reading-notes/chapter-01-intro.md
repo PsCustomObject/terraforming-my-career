@@ -4,15 +4,7 @@ parent: Reading-Notes
 nav_order: 1
 ---
 
-# 📖 Terraform Up & Running – Notes & Reflections
-
-> ✍️ Author: Yevgeniy Brikman
-> 🧠 Personal notes by PsCustomObject
-> 📘 Edition: Third Edition
-
----
-
-## 🧱 Chapter 1 – Why Terraform and DevOps
+# 🧱 Chapter 1 – Why Terraform and DevOps
 
 **DevOps** enables faster, more reliable application delivery by promoting automation, repeatability, and collaboration. The classic *“it worked on my machine”* problem is mitigated by making both code and infrastructure reproducible.
 

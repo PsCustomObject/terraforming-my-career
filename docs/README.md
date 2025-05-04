@@ -1,6 +1,6 @@
 ---
 title: Readme
-nav_order: 2
+nav_order: 1
 ---
 
 
@@ -44,13 +44,11 @@ To build the skills, confidence, and portfolio needed to grow into a role as a *
 
 ## 👋 Who Am I?
 
-I’m Daniele — a systems engineer with 20+ years of experience in infrastructure, automation, PowerShell, and enterprise systems. This repo is part of my commitment to continuous learning, self-reflection, and the pursuit of real, applied expertise in modern infrastructure.
-
-I used to be a professional teacher and trainer — and once you’ve been a teacher, it never really leaves you. If any part of this journey helps even one person deepen their understanding or feel less alone in the learning process, then sharing it has been worth it.
+I'm Daniele — a systems engineer with 20+ years of experience in infrastructure, automation, PowerShell, and enterprise systems. This repo is part of my commitment to continuous learning, self-reflection, and the pursuit of real, applied expertise in modern infrastructure.
 
 ---
 
-> 📢 Feel free to fork this repo, use the notes, or reach out if you're on a similar journey or just to say hi!
+> 📢 Feel free to fork this repo, use the notes, or reach out if you're on a similar journey!
 
 ---
 
