@@ -54,7 +54,7 @@ nav_order: 1
   - S3 bucket
   - IAM user
   - VPC (basic)
-- Refresh AWS services via Neal Davis videos as you use them
+- Refresh AWS services via Neal Davis videos
 
 **Deliverables:**
 
