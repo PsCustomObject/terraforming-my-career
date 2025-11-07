@@ -10,10 +10,10 @@ Welcome to my curated collection of notes, plans, and hands-on experiments as I 
 
 Explore topics like:
 
+- AWS
 - Terraform
 - Docker
 - Kubernetes
-- AWS
 - Learning plans
 - Reading notes
 
