@@ -7,8 +7,6 @@ toc: false
 
 <!-- TOC:DO-NOT-EDIT -->
 
-## TABLE OF CONTENTS
-
 - [AWS](AWS/)
 - [Meta](meta/)
 - [Reading Notes](reading_notes/)

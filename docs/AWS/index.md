@@ -7,6 +7,4 @@ toc: false
 
 <!-- TOC:DO-NOT-EDIT -->
 
-## TABLE OF CONTENTS
-
 - [Cloud Practitioner](AWS - Cloud Practitioner/)
