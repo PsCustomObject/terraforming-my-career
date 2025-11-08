@@ -1,17 +1,15 @@
 ---
 title: AWS
 nav_order: 10
-has_children: false
+has_children: true
 toc: false
 ---
-# AWS
-
-Notes for the **AWS** section.
-
-<!-- TOC:DO-NOT-EDIT -->
 
 ## TABLE OF CONTENTS
 
 ---
+
+- [Cloud Practitioner](AWS - Cloud Practitioner/)
+<!-- TOC:DO-NOT-EDIT -->
 
 - [Cloud Practitioner](AWS - Cloud Practitioner/)
