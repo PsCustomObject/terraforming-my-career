@@ -1,7 +1,7 @@
 ---
 title: AWS
 nav_order: 10
-has_children: true
+has_children: false
 toc: false
 ---
 # AWS
