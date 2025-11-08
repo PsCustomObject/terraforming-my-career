@@ -7,10 +7,3 @@ toc: false
 # AWS
 
 Notes for the **AWS** section.
-
-<!-- TOC:DO-NOT-EDIT -->
-
-## TABLE OF CONTENTS
-
----
-
