@@ -1,6 +1,6 @@
 ---
 title: Meta
-nav_order: 30
+nav_order: 20
 has_children: true
 ---
 
@@ -8,4 +8,12 @@ has_children: true
 
 Notes for the **Meta** section.
 
-<!-- AUTO-GENERATED CHAPTER TOC -->
+<!-- TOC:DO-NOT-EDIT -->
+
+## TABLE OF CONTENTS
+
+---
+
+- [Learning Plan](learning-plan.md)
+- [Macro Plan](macro-plan.md)
+- [Reading Plan](reading-plan.md)
