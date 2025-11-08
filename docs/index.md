@@ -1,20 +1,8 @@
 ---
-title: Home
-nav_order: 1
+title: Root
+nav_order: 10
 has_children: true
 ---
+# Root
 
-# Terraforming My Career
-
-Welcome to my curated collection of notes, plans, and hands-on experiments as I transition into Cloud and DevOps engineering.
-
-Explore topics like:
-
-- AWS
-- Terraform
-- Docker
-- Kubernetes
-- Learning plans
-- Reading notes
-
-Everything is structured by folder and grows over time.
+Notes for the **Root** section.
