@@ -8,7 +8,6 @@ toc: false
 <!-- TOC:DO-NOT-EDIT -->
 
 - [AWS](AWS/)
-- [Docs](docs/)
 - [Meta](meta/)
 - [Reading Notes](reading_notes/)
 - [Terraform](terraform/)

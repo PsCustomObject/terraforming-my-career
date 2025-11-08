@@ -1,7 +1,7 @@
 ---
 title: "00 Cloud Essentials"
 parent: AWS
-nav_order: 1
+nav_exclude: true
 ---
 
 # ☁️ Cloud Essentials Overview

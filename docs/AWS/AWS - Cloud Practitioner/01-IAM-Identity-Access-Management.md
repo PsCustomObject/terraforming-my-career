@@ -1,7 +1,7 @@
 ---
 title: "01 Iam Identity Access Management"
 parent: AWS
-nav_order: 2
+nav_exclude: true
 ---
 
 # Introduction

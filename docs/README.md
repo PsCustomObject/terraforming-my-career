@@ -1,6 +1,6 @@
 ---
-title: "Readme"
-nav_exclude: true
+title: "README"
+nav_order: 1
 ---
 
 
