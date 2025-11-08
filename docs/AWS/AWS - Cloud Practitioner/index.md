@@ -7,5 +7,7 @@ toc: false
 
 <!-- TOC:DO-NOT-EDIT -->
 
+## TABLE OF CONTENTS
+
 - [00 Cloud Essentials](00-cloud-essentials.md)
 - [01 Iam Identity Access Management](01-IAM-Identity-Access-Management.md)
