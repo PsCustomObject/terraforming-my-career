@@ -1,6 +1,5 @@
 ---
 title: "01 Iam Identity Access Management"
-parent: AWS
 nav_exclude: true
 ---
 

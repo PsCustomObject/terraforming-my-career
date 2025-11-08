@@ -1,6 +1,5 @@
 ---
 title: "00 Cloud Essentials"
-parent: AWS
 nav_exclude: true
 ---
 
