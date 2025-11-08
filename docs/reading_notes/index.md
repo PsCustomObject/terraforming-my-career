@@ -1,19 +1,8 @@
 ---
 title: Reading Notes
-nav_order: 30
+nav_order: 40
 has_children: true
 ---
-
 # Reading Notes
 
-# 📖 Terraform Up & Running – Notes & Reflections
-
-> ✍️ Author: Yevgeniy Brikman
-> 🧠 Personal notes by PsCustomObject
-> 📘 Edition: Third Edition
-
----
-
-# 📖 Terraform Up & Running
-
-This folder contains chapter-by-chapter notes and exercises based on the book *Terraform Up & Running* by Yevgeniy Brikman.
+Notes for the **Reading Notes** section.

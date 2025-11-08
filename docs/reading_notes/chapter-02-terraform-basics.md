@@ -1,5 +1,5 @@
 ---
-title: "Chapter 2 – Terraform Basics"
+title: "Chapter 2 — Terraform Basics"
 parent: Reading Notes
 nav_order: 2
 ---
