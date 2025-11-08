@@ -7,5 +7,3 @@ has_children: true
 # Meta
 
 Notes for the **Meta** section.
-
-<!-- TOC:DO-NOT-EDIT -->

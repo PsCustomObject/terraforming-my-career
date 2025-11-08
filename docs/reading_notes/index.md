@@ -17,12 +17,3 @@ has_children: true
 # 📖 Terraform Up & Running
 
 This folder contains chapter-by-chapter notes and exercises based on the book *Terraform Up & Running* by Yevgeniy Brikman.
-
-<!-- TOC:DO-NOT-EDIT -->
-
-## TABLE OF CONTENTS
-
----
-
-- [Chapter 1 – Intro](chapter-01-intro.md)
-- [Chapter 2 – Terraform Basics](chapter-02-terraform-basics.md)
