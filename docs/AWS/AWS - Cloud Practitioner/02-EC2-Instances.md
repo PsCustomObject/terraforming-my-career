@@ -274,8 +274,6 @@ AWS offers cost models for different workload patterns.
 
 ---
 
-## 📘 Summary
-
 ## 📘 Summary — EC2 Essentials
 
 - **EC2 (Elastic Compute Cloud)** is AWS’s IaaS service for deploying and managing virtual machines.
