@@ -103,7 +103,7 @@ In *Advanced* settings you can choose whether the volume should:
 > 🧠 **Instance Lifecycle Summary**
 >
 > - Stop: EBS volume persists  
-> - Terminate: EBS may be deleted (based on flag)  
+> - Terminate: EBS may be deleted (based on flag/configuration)  
 > - Instance Store: always lost on stop/terminate  
 
 ---
@@ -225,7 +225,9 @@ AWS offers cost models for different workload patterns.
 
 ### 🔒 Dedicated Instances
 
-- Hardware not shared with other customers  
+- Instances run on a VPC on Hardware not shared with other customers
+- Instances run isolated at the hardware level from instances belonging to other AWS accounts
+- Dedicated instances could share hardware with other non dedicated instances from the **same AWS account**
 - No instance placement control  
 
 ### 📌 Capacity Reservations
@@ -287,7 +289,7 @@ AWS offers cost models for different workload patterns.
 - **Storage** is usually EBS (persists when stopped). **Instance Store** is ephemeral.
 - **Instance Lifecycle**:
   - Stop = EBS persists  
-  - Terminate = EBS may delete  
+  - Terminate = EBS may delete depending on configuration
   - Instance Store = lost
 - **Shared Responsibility**:
   - AWS: infrastructure, hardware, virtualization

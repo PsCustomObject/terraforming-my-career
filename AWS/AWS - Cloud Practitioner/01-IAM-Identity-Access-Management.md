@@ -69,8 +69,8 @@ Example:
 ### Policy Types
 
 - **Managed policies:**  
-  - AWS-managed (prebuilt by AWS)  
-  - Customer-managed (you create and maintain them)  
+  - *AWS-managed* (prebuilt by AWS)  
+  - *Customer-managedß* (you create and maintain them for cases where high customization is required)  
 - **Inline policies:** Embedded directly into a *single* user, group, or role.  
 
 **Note:** *Inline policies* should generally be avoided except in very specific, limited-use cases.
@@ -141,7 +141,7 @@ Example:
 - An EC2 instance assumes a role that allows it to read from an S3 bucket.
 - Lambda functions can assume a role to write logs to CloudWatch.
 
-Advantages:
+Advantages of IAM Roles:
 
 - Temporary and automatically rotated credentials  
 - Least-privilege enforcement  
