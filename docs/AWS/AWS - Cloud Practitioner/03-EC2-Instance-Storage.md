@@ -1,5 +1,5 @@
 ---
-title: "03 Ec2 Instance Storage"
+title: "03 EC2 Instance Storage"
 nav_exclude: true
 ---
 

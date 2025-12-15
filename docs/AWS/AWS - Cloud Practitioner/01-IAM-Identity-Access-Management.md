@@ -1,5 +1,5 @@
 ---
-title: "01 Iam Identity Access Management"
+title: "01 IAM Identity Access Management"
 nav_exclude: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "02 Ec2 Instances"
+title: "02 EC2 Instances"
 nav_exclude: true
 ---
 
